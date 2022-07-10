@@ -24,8 +24,8 @@
 # SOFTWARE.
 #
 
-name: 'phpunit-coverage-badge'
-author: 'Tim Krase <timkrase@timkrase.de>'
+name: 'phpunit-coverage-badge2'
+author: 'Ryan <ryan@humboldtweb.com>'
 description: 'Creates a code coverage badge from phpunit reports'
 branding:
   icon: 'award'
